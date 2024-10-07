@@ -7,7 +7,7 @@ Author: Mark Bauer
 
 ![map-normalized](figures/total-obligated-normalized-map.png)
 
-**Table xx.** Top 20 Public Assistance Grants by Highest Total Obligated Amount ($Millions)
+**Table xx.** Top 20 Public Assistance Grants by Highest Total Obligated Amount (Millions)
 |   rank |   disasterNumber | state          |   year | incidentType   |   totalObligatedM |
 |-------:|-----------------:|:---------------|-------:|:---------------|------------------:|
 |      1 |             4339 | Puerto Rico    |   2017 | Hurricane      |             33898 |
@@ -31,7 +31,7 @@ Author: Mark Bauer
 |     19 |             4086 | New Jersey     |   2012 | Hurricane      |              2243 |
 |     20 |             1791 | Texas          |   2008 | Hurricane      |              2223 |
 
-**Table xx.** Public Assistance Grants by Highest Total Obligated Amount per Incident Type ($Millions)
+**Table xx.** Public Assistance Grants by Highest Total Obligated Amount per Incident Type (Millions)
 | incidentType                    |   disasterNumber | state                          |   year |   totalObligatedM |
 |:--------------------------------|-----------------:|:-------------------------------|-------:|------------------:|
 | Biological                      |             4480 | New York                       |   2020 |          15592.40 |
