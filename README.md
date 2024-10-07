@@ -5,9 +5,9 @@ Author: Mark Bauer
 ![year-incident](figures/year-incident.png)
 
 
-![map](total-obligated-map.png)
+![map](figures/total-obligated-map.png)
 
-![map-normalized](total-obligated-normalized-map.png)
+![map-normalized](figures/total-obligated-normalized-map.png)
 
 
 **Table xx.** Top 20 Public Assistance Projects by Highest Total Obligated Amount
