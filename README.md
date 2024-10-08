@@ -1,6 +1,13 @@
 # FEMA Disaster Declarations and Public Assistance Data Analysis
 Author: Mark Bauer
 
+# Table of Contents
+[1. Introduction](#1-Introduction)
+[2. Notebooks](#2-Notebooks)
+[3. Data](#3-Data)
+[4. Additional Resources](#4-Additional-Resources)
+[5. Say Hello!](#5-Say-Hello)
+
 ![year-incident](figures/year-incident.png)
 
 ![map](figures/total-obligated-map.png)
@@ -64,3 +71,34 @@ Author: Mark Bauer
 | Winter Storm                    |             4644 | Virginia                       |   2022 |            111.85 |
 
 ![incident-state](figures/incident-state.png)
+
+
+# 1. Introduction
+
+
+# 2. Notebook
+- FEMA's Disaster Declarations: [disaster-declarations.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/disaster-declarations.ipynb)
+- FEMA's Public Assistance Program: [public-assistance.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/public-assistance.ipynb)
+- Figures in analysis: [figures.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/figures.ipynb)
+
+# 3. Data
+- [OpenFEMA Dataset: Disaster Declarations Summaries - v2](https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2)
+>Disaster Declarations Summaries is a summarized dataset describing all federally declared disasters. This dataset lists all official FEMA Disaster Declarations, beginning with the first disaster declaration in 1953 and features all three disaster declaration types: major disaster, emergency, and fire management assistance. The dataset includes declared recovery programs and geographic areas (county not available before 1964; Fire Management records are considered partial due to historical nature of the dataset).
+
+- [OpenFEMA Dataset: Public Assistance Funded Projects Details - v1](https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1)
+>The Public Assistance Funded Projects Details dataset contains obligated (financial obligation to grantee) Public Assistance projects, lists public assistance recipients designated as applicants in the data, and a list of every funded, individual project, called project worksheets. Open projects still under pre-obligation processing are not represented. Applicant details can be obtained by relating this dataset with the OpenFEMA Public Assistance Applicants dataset using the Applicant ID field.
+>
+>FEMA provides supplemental Federal disaster grant assistance for debris removal, emergency protective measures, and the repair, replacement, or restoration of disaster-damaged, publicly owned facilities and the facilities of certain Private Non-Profit (PNP) organizations through the PA Program (CDFA Number 97.036). The PA Program also encourages protection of these damaged facilities from future events by providing assistance for hazard mitigation measures during the recovery process (see FEMA Hazard Mitigation Grants Sections 404 and 406: https://www.fema.gov/press-release/20230426/fema-hazard-mitigation-grants-404-and-406).
+
+# 4. Additional Resources
+- [OpenFEMA](https://www.fema.gov/about/reports-and-data/openfema): The public’s resource for FEMA program data. Promoting a culture of Open Government and increasing transparency, participation, and collaboration among the Whole Community in support of FEMA's mission to help people before, during, and after disasters.
+- [The OpenFEMA API Documentation](https://www.fema.gov/about/openfema/api)
+- OpenFEMA Data Visualizations:
+    - [Disaster Declarations for States and Counties](https://www.fema.gov/data-visualization/disaster-declarations-states-and-counties)
+    - [Public Assistance Program Summary of Obligations](https://www.fema.gov/data-visualization/public-assistance-program-summary-obligations)
+
+# 5. Say Hello!
+Feel free to reach out for further discussions.
+- LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
+- Portfolio: [mebauer.github.io](https://mebauer.github.io/)
+- GitHub: [mebauer](https://github.com/mebauer) 
