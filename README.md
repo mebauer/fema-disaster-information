@@ -81,9 +81,9 @@ Read more about OpenFEMA's [Terms and Conditions](https://www.fema.gov/about/ope
 
 
 # 2. Notebooks
-- FEMA's Disaster Declarations: [disaster-declarations.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/disaster-declarations.ipynb)
-- FEMA's Public Assistance Program: [public-assistance.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/public-assistance.ipynb)
-- Figures in analysis: [figures.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/figures.ipynb)
+- FEMA's Disaster Declarations: [disaster-declarations.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/disaster-declarations.ipynb). This notebook provides a comprehensive analysis of disaster declarations from FEMA, featuring tables and charts that highlight key insights since 1953.
+- FEMA's Public Assistance Program: [public-assistance.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/public-assistance.ipynb). Explore detailed insights into the Public Assistance Program through this notebook, which includes tables and charts representing funded projects, referred to as project worksheets (PWs).
+- Figures in analysis: [figures.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/figures.ipynb). This notebook is dedicated to generating figures and tables displayed on this page. For a more detailed analysis of the Public Assistance data, refer to the [public-assistance.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/public-assistance.ipynb) notebook.
 
 # 3. Data
 ## OpenFEMA Dataset: Disaster Declarations Summaries - v2
