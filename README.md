@@ -1,7 +1,7 @@
 # FEMA Disaster Declarations and Public Assistance Data Analysis
 Author: Mark Bauer
 
-# Table of Contents
+### Table of Contents
 * [1. Introduction](#1-Introduction)  
 * [2. Notebooks](#2-Notebooks)  
 * [3. Data](#3-Data)  
@@ -86,17 +86,23 @@ Note: This analysis uses the Federal Emergency Management Agency’s OpenFEMA AP
 Note: This analysis uses the Federal Emergency Management Agency’s OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
 
 # 3. Data
-- [OpenFEMA Dataset: Disaster Declarations Summaries - v2](https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2)
->Disaster Declarations Summaries is a summarized dataset describing all federally declared disasters. This dataset lists all official FEMA Disaster Declarations, beginning with the first disaster declaration in 1953 and features all three disaster declaration types: major disaster, emergency, and fire management assistance. The dataset includes declared recovery programs and geographic areas (county not available before 1964; Fire Management records are considered partial due to historical nature of the dataset).
+## OpenFEMA Dataset: Disaster Declarations Summaries - v2
+Source: https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2
 
 Federal Emergency Management Agency (FEMA), OpenFEMA Dataset: Disaster Declarations Summaries - v2. Retrieved from https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2. This product uses the FEMA OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
 
-- [OpenFEMA Dataset: Public Assistance Funded Projects Details - v1](https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1)
+Description:  
+>Disaster Declarations Summaries is a summarized dataset describing all federally declared disasters. This dataset lists all official FEMA Disaster Declarations, beginning with the first disaster declaration in 1953 and features all three disaster declaration types: major disaster, emergency, and fire management assistance. The dataset includes declared recovery programs and geographic areas (county not available before 1964; Fire Management records are considered partial due to historical nature of the dataset).
+
+## OpenFEMA Dataset: Public Assistance Funded Projects Details - v1
+Source: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
+
+Federal Emergency Management Agency (FEMA), OpenFEMA Dataset: Public Assistance Funded Projects Details - v1. Retrieved from https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1. This product uses the FEMA OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
+
+Description:  
 >The Public Assistance Funded Projects Details dataset contains obligated (financial obligation to grantee) Public Assistance projects, lists public assistance recipients designated as applicants in the data, and a list of every funded, individual project, called project worksheets. Open projects still under pre-obligation processing are not represented. Applicant details can be obtained by relating this dataset with the OpenFEMA Public Assistance Applicants dataset using the Applicant ID field.
 >
 >FEMA provides supplemental Federal disaster grant assistance for debris removal, emergency protective measures, and the repair, replacement, or restoration of disaster-damaged, publicly owned facilities and the facilities of certain Private Non-Profit (PNP) organizations through the PA Program (CDFA Number 97.036). The PA Program also encourages protection of these damaged facilities from future events by providing assistance for hazard mitigation measures during the recovery process (see FEMA Hazard Mitigation Grants Sections 404 and 406: https://www.fema.gov/press-release/20230426/fema-hazard-mitigation-grants-404-and-406).
-
-Federal Emergency Management Agency (FEMA), OpenFEMA Dataset: Public Assistance Funded Projects Details - v1. Retrieved from https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1. This product uses the FEMA OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
 
 Read more about OpenFEMA's [Terms and Conditions](https://www.fema.gov/about/openfema/terms-conditions).
 
