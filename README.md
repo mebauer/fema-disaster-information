@@ -10,6 +10,8 @@ Author: Mark Bauer
 
 Note: This analysis uses the Federal Emergency Management Agency’s OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
 
+Read more about OpenFEMA's [Terms and Conditions](https://www.fema.gov/about/openfema/terms-conditions).
+
 ![year-incident](figures/year-incident.png)
 
 ![map](figures/total-obligated-map.png)
@@ -78,12 +80,10 @@ Note: This analysis uses the Federal Emergency Management Agency’s OpenFEMA AP
 # 1. Introduction
 
 
-# 2. Notebook
+# 2. Notebooks
 - FEMA's Disaster Declarations: [disaster-declarations.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/disaster-declarations.ipynb)
 - FEMA's Public Assistance Program: [public-assistance.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/public-assistance.ipynb)
 - Figures in analysis: [figures.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/figures.ipynb)
-
-Note: This analysis uses the Federal Emergency Management Agency’s OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
 
 # 3. Data
 ## OpenFEMA Dataset: Disaster Declarations Summaries - v2
@@ -103,8 +103,6 @@ Description:
 >The Public Assistance Funded Projects Details dataset contains obligated (financial obligation to grantee) Public Assistance projects, lists public assistance recipients designated as applicants in the data, and a list of every funded, individual project, called project worksheets. Open projects still under pre-obligation processing are not represented. Applicant details can be obtained by relating this dataset with the OpenFEMA Public Assistance Applicants dataset using the Applicant ID field.
 >
 >FEMA provides supplemental Federal disaster grant assistance for debris removal, emergency protective measures, and the repair, replacement, or restoration of disaster-damaged, publicly owned facilities and the facilities of certain Private Non-Profit (PNP) organizations through the PA Program (CDFA Number 97.036). The PA Program also encourages protection of these damaged facilities from future events by providing assistance for hazard mitigation measures during the recovery process (see FEMA Hazard Mitigation Grants Sections 404 and 406: https://www.fema.gov/press-release/20230426/fema-hazard-mitigation-grants-404-and-406).
-
-Read more about OpenFEMA's [Terms and Conditions](https://www.fema.gov/about/openfema/terms-conditions).
 
 # 4. Additional Resources
 - [OpenFEMA](https://www.fema.gov/about/reports-and-data/openfema): The public’s resource for FEMA program data. Promoting a culture of Open Government and increasing transparency, participation, and collaboration among the Whole Community in support of FEMA's mission to help people before, during, and after disasters.
