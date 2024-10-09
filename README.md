@@ -81,22 +81,18 @@ Read more about OpenFEMA's [Terms and Conditions](https://www.fema.gov/about/ope
 
 
 # 2. Notebooks
-- FEMA's Disaster Declarations: [disaster-declarations.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/disaster-declarations.ipynb). This notebook provides a comprehensive analysis of disaster declarations from FEMA, featuring tables and charts that highlight key insights since 1953.
-- FEMA's Public Assistance Program: [public-assistance.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/public-assistance.ipynb). Explore detailed insights into the Public Assistance Program through this notebook, which includes tables and charts representing funded projects, referred to as project worksheets (PWs).
-- Figures in analysis: [figures.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/figures.ipynb). This notebook is dedicated to generating figures and tables displayed on this page. For a more detailed analysis of the Public Assistance data, refer to the [public-assistance.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/public-assistance.ipynb) notebook.
+- [FEMA's Disaster Declarations](https://github.com/mebauer/fema-disaster-information/blob/main/disaster-declarations.ipynb): This notebook provides a comprehensive analysis of disaster declarations from FEMA, featuring tables and charts that highlight key insights since 1953.
+- [FEMA's Public Assistance Program](https://github.com/mebauer/fema-disaster-information/blob/main/public-assistance.ipynb): Explore detailed insights into the Public Assistance Program through this notebook, which includes tables and charts representing funded projects, referred to as project worksheets (PWs).
+- [Figures](https://github.com/mebauer/fema-disaster-information/blob/main/figures.ipynb): This notebook is dedicated to generating figures and tables displayed on this page. For a more detailed analysis of the Public Assistance data, refer to the [public-assistance.ipynb](https://github.com/mebauer/fema-disaster-information/blob/main/public-assistance.ipynb) notebook.
 
 # 3. Data
 ## OpenFEMA Dataset: Disaster Declarations Summaries - v2
-Source: https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2
-
 Federal Emergency Management Agency (FEMA), OpenFEMA Dataset: Disaster Declarations Summaries - v2. Retrieved from https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2. This product uses the FEMA OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
 
 Description:  
 >Disaster Declarations Summaries is a summarized dataset describing all federally declared disasters. This dataset lists all official FEMA Disaster Declarations, beginning with the first disaster declaration in 1953 and features all three disaster declaration types: major disaster, emergency, and fire management assistance. The dataset includes declared recovery programs and geographic areas (county not available before 1964; Fire Management records are considered partial due to historical nature of the dataset).
 
 ## OpenFEMA Dataset: Public Assistance Funded Projects Details - v1
-Source: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
-
 Federal Emergency Management Agency (FEMA), OpenFEMA Dataset: Public Assistance Funded Projects Details - v1. Retrieved from https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1. This product uses the FEMA OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
 
 Description:  
